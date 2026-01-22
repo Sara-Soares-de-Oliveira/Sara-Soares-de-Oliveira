@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Sara 👋
 
-<!--
-**Sara-Soares-de-Oliveira/Sara-Soares-de-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+🔐 Interested in Cybersecurity & Networks  
+📊 Also exploring Data Analysis & BI  
 
-Here are some ideas to get you started:
+### Areas of interest
+- Cybersecurity fundamentals
+- Computer Networks
+- Operating Systems
+- Data Analysis & Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here you'll find academic and personal projects that reflect
+my learning path and technical foundations.
