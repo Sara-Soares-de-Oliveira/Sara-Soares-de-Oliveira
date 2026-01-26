@@ -7,7 +7,6 @@
 ### Areas of interest
 - Cybersecurity fundamentals
 - Computer Networks
-- Operating Systems
 - Data Analysis & Business Intelligence
 
 Here you'll find academic and personal projects that reflect
